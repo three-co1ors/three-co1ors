@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![three-co1ors's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
+![header](https://capsule-render.vercel.app/api?type=blur&color=add1f4&height=300&section=header&text=blur%20render&fontSize=90)
