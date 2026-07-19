@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🤖 HiVibe</h3>
+      <h3><a href="https://github.com/three-co1ors/SH_Hivibe">🤖 HiVibe</a></h3>
       <p>AI 기반 코드 분석 및 학습 웹 플랫폼 (진행 중)</p>
       <p>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -48,7 +48,7 @@
       </p>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>🐾 Howsu</h3>
+      <h3><a href="https://github.com/three-co1ors/SH_HOWSU">🐾 Howsu</a></h3>
       <p>반려동물 가족 케어 공유 플랫폼 (Android)</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🌱 왓더팜 (What The Fxxm!)</h3>
+      <h3><a href="https://github.com/three-co1ors/SH_Escapetato">🌱 왓더팜 (What The Fxxm!)</a></h3>
       <p>2D 모바일 방치형 농장 게임 (Android)</p>
       <p>
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
@@ -78,7 +78,7 @@
       </p>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>🍓 산딸기 어린이집</h3>
+      <h3><a href="https://github.com/three-co1ors/SH_OhEng">🍓 산딸기 어린이집</a></h3>
       <p>2D 쯔꾸르 공포 어드벤처 게임</p>
       <p>
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
