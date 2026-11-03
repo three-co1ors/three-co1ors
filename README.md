@@ -3,8 +3,20 @@
 </p>
 
 <p align="center">
+  <a href="https://sh-main-portfoli0.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Computer+Science+%7C+Developer;Unity+%26+C%23+%7C+Java+%26+Spring+Boot;Game+%26+Backend+Projects;Always+learning%2C+always+building+🌱" />
 </p>
+
+<br/>
+
+## 🔗 Portfolio
+
+👉 **[sh-main-portfoli0.vercel.app](https://sh-main-portfoli0.vercel.app/)**
 
 <br/>
 
@@ -141,6 +153,12 @@
 </p>
 
 <br/>
+
+<p align="center">
+  <a href="https://sh-main-portfoli0.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer"/>
