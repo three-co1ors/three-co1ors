@@ -39,7 +39,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/three-co1ors/SH_Hivibe">🤖 HiVibe</a></h3>
-      <p>AI 기반 코드 분석 및 학습 웹 플랫폼 (진행 중)</p>
+      <p>AI 기반 코드 분석 및 학습 웹 플랫폼</p>
       <p>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
