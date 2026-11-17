@@ -67,9 +67,10 @@
 
 <br/>
 
+
 ## 🚀 Featured Projects
 
-### 🤖 HiVibe — AI 기반 코드 분석·학습 플랫폼
+### 🤖 [HiVibe — AI 기반 코드 분석·학습 플랫폼](https://github.com/three-co1ors/SH_Hivibe)
 
 **Java / Spring Boot · MySQL · Gemini API · AWS**
 
@@ -91,7 +92,7 @@
 
 ---
 
-### 🐾 Howsu — 가족 공동 반려동물 케어 앱
+### 🐾 [Howsu — 가족 공동 반려동물 케어 앱](https://github.com/three-co1ors/SH_HOWSU)
 
 **Kotlin / Jetpack Compose · Firebase Auth · Firestore · Cloud Functions · FCM**
 
