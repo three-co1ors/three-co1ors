@@ -88,6 +88,8 @@
   <a href="https://www.hivibe.cloud/"><img src="https://img.shields.io/badge/Live%20Demo-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="HiVibe 서비스" /></a>
 </p>
 
+*서버 과금으로 서비스 일시 정지 상태
+
 <sub>2인 졸업 프로젝트 · 담당: AI 코드 진단, DB 설계, 주요 REST API, 일부 프론트엔드, 배포</sub>
 
 ---
