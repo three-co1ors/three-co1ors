@@ -10,7 +10,7 @@
 숙명여자대학교 컴퓨터과학전공 · 2027.02 졸업 예정  
 **GPA 4.11 / 4.5**
 
-<a href="https://sh-main-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="https://sh-portfolio-jade.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
 <a href="https://github.com/three-co1ors"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
 <a href="https://www.hivibe.cloud/"><img src="https://img.shields.io/badge/HiVibe-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HiVibe"/></a>
 
