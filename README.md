@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=181717&height=185&section=header&text=박성하&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Backend%20%7C%20AI%20Integration%20%7C%20Cloud&descAlignY=58&descSize=17&descAlign=50" alt="박성하 프로필 헤더"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5db2fd&height=185&section=header&text=박성하&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Backend%20%7C%20AI%20Integration%20%7C%20Cloud&descAlignY=58&descSize=17&descAlign=50" alt="박성하 프로필 헤더"/>
 </p>
 
 <div align="center">
@@ -10,9 +9,9 @@
 숙명여자대학교 컴퓨터과학전공 · 2027.02 졸업 예정  
 **GPA 4.11 / 4.5**
 
-<a href="https://sh-portfolio-jade.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
-<a href="https://github.com/three-co1ors"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<a href="https://www.hivibe.cloud/"><img src="https://img.shields.io/badge/HiVibe-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HiVibe"/></a>
+<a href="https://sh-portfolio-jade.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5DB2FD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="https://github.com/three-co1ors"><img src="https://img.shields.io/badge/GitHub-5DB2FD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://www.hivibe.cloud/"><img src="https://img.shields.io/badge/HiVibe-5DB2FD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HiVibe"/></a>
 
 </div>
 
@@ -282,5 +281,5 @@ Backend Development · AI Integration · Cloud Deployment
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=181717&height=110&section=footer" alt="박성하 프로필 푸터"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5db2fd&height=110&section=footer" alt="박성하 프로필 푸터"/>
 </p>
